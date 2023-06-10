@@ -1,4 +1,4 @@
 # tftp-client-gui
-GUI for my TFTP client written in Rust
+GUI for my TFTP client written in ~~Rust~~ Go
 
-It won't work from vs debugger, use dotnet run from command line
+I just realized whole program sucks balls, so I wrote a new API in Go and will transform it to make use of it.
